@@ -1,0 +1,5 @@
+pasiing object between sibling Companents
+making stars is dynmaic values
+can --q in cart compant and effect in total price
+Add dilogo in payment by vue ui libyary 
+total problem must be dymanic
